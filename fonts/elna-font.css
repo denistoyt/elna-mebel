@@ -1,0 +1,209 @@
+@font-face {
+  font-family: 'elna-mebel-font';
+  src:  url('elna-mebel-font.eot?jg5m3l');
+  src:  url('elna-mebel-font.eot?jg5m3l#iefix') format('embedded-opentype'),
+    url('elna-mebel-font.ttf?jg5m3l') format('truetype'),
+    url('elna-mebel-font.woff?jg5m3l') format('woff'),
+    url('elna-mebel-font.svg?jg5m3l#elna-mebel-font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.elna {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'elna-mebel-font' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.elna-mebel-loft:before {
+  content: "\e900";
+}
+.elna-view:before {
+  content: "\e901";
+}
+.elna-apply:before {
+  content: "\e93b";
+}
+.elna-arrow-backward:before {
+  content: "\e93c";
+}
+.elna-arrow-up:before {
+  content: "\e902";
+}
+.elna-bonuses:before {
+  content: "\e93d";
+}
+.elna-chars:before {
+  content: "\e93e";
+}
+.elna-close:before {
+  content: "\e93f";
+}
+.elna-comments:before {
+  content: "\e940";
+}
+.elna-delivery:before {
+  content: "\e941";
+}
+.elna-list-marker-cir:before {
+  content: "\e942";
+  color: #DE2C29;
+}
+.elna-logout:before {
+  content: "\e944";
+}
+.elna-menu:before {
+  content: "\e945";
+}
+.elna-minus:before {
+  content: "\e903";
+}
+.elna-module-row:before {
+  content: "\e946";
+}
+.elna-my-orders:before {
+  content: "\e947";
+}
+.elna-subscribes:before {
+  content: "\e904";
+}
+.elna-telephone:before {
+  content: "\e948";
+}
+.elna-to-hands:before {
+  content: "\e94b";
+}
+.elna-arrow-down:before {
+  content: "\e930";
+}
+.elna-cart:before {
+  content: "\e931";
+}
+.elna-city-place:before {
+  content: "\e932";
+}
+.elna-favourite:before {
+  content: "\e933";
+}
+.elna-pers-cabinet:before {
+  content: "\e935";
+}
+.elna-telegram:before {
+  content: "\e937";
+}
+.elna-3D:before {
+  content: "\e927";
+}
+.elna-plus:before {
+  content: "\e906";
+}
+.elna-arrow-left:before {
+  content: "\e908";
+}
+.elna-credit-cashback:before {
+  content: "\e90f";
+}
+.elna-econom-mebel:before {
+  content: "\e910";
+}
+.elna-hallways:before {
+  content: "\e912";
+}
+.elna-home-office:before {
+  content: "\e913";
+}
+.elna-insta:before {
+  content: "\e914";
+}
+.elna-to-bank-card:before {
+  content: "\e949";
+}
+.elna-to-bank-transmit:before {
+  content: "\e94a";
+}
+.elna-search:before {
+  content: "\e936";
+}
+.elna-whatsapp:before {
+  content: "\e939";
+}
+.elna-about:before {
+  content: "\e928";
+}
+.elna-info:before {
+  content: "\e929";
+}
+.elna-main:before {
+  content: "\e92a";
+}
+.elna-opt-clients:before {
+  content: "\e92b";
+}
+.elna-order-mebel:before {
+  content: "\e92c";
+}
+.elna-serial-mebel:before {
+  content: "\e92d";
+}
+.elna-3d-vision:before {
+  content: "\e905";
+}
+.elna-arrow-forward:before {
+  content: "\e907";
+}
+.elna-arrow-right:before {
+  content: "\e909";
+}
+.elna-bedroom:before {
+  content: "\e90a";
+}
+.elna-cabinet-chest:before {
+  content: "\e90b";
+}
+.elna-cab-shelving:before {
+  content: "\e90c";
+}
+.elna-coupon-mebel:before {
+  content: "\e90e";
+}
+.elna-favourite-bg:before {
+  content: "\e911";
+  color: #DE2C29;
+}
+.elna-kitchens:before {
+  content: "\e915";
+}
+.elna-list-marker-sq:before {
+  content: "\e920";
+  color: #DE2C29;
+}
+.elna-mebel-assembling:before {
+  content: "\e922";
+}
+.elna-mebel-deliver:before {
+  content: "\e923";
+}
+.elna-order-mebel-96:before {
+  content: "\e924";
+}
+.elna-pen:before {
+  content: "\e925";
+}
+.elna-place-sizes:before {
+  content: "\e926";
+}
+.elna-tables-stools:before {
+  content: "\e92e";
+}
+.elna-vk:before {
+  content: "\e92f";
+}
