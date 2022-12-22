@@ -1,0 +1,250 @@
+@media(max-width: 1770px) {
+    
+}
+@media(max-width: 1600px) {
+    /* FOOTER */
+    .footer__content__site_links {
+        width: auto;
+    }
+    .footer__content__wrapper {
+        padding: 100px 95px 50px 95px;
+    }
+    .main_page__company__slogan {
+        padding: 0 85px;
+    }
+    .main_page__company__services, .main_page__serial__mebel, .main_page__catalog, .main_page__advantages, .main_page__interiers, .main_page__useful_publications, .main_page__company_options, .footer__content__wrapper, .footer__info {
+        padding-left: 85px;
+        padding-right: 85px;
+    }
+    .serial__mebel__content__item {
+        padding-left: 59px;
+        padding-right: 59px;
+    }
+    .catalog__card__product_preview_img {
+        height: 239px;
+    }
+    .about_company__info_wrapper {
+        padding: 98px 85px 100px 80px;
+        flex: 50% 0 1;
+    }
+    .company_partners__title {
+        margin-left: 85px;
+    }
+    .company_options__items_wrapper {
+        padding: 0;
+    }
+    .main_page__clients_comments {
+        padding-left: 69px;
+        padding-right: 69px;
+    }
+}
+@media(max-width: 1450px) {
+    /* FOOTER */
+    .footer__content__wrapper {
+        padding: 100px 85px 50px 85px;
+    }
+    .footer__info {
+        padding: 50px 85px 100px 85px;
+    }
+    .footer__content__site_links, .footer__content__info-communication {
+        width: 297px;
+    }
+}
+@media (max-width: 1366px) {
+    main {
+        margin-left: 110px;
+    }
+    .left__menu__wrapper {
+        width: 110px;
+    }
+    .main_page__header__left_side, .main_page__header__right_side, .main_page__header__left_side__about {
+        gap: 25px;
+    }
+    .main_page__header__left_side__about span, .main_page__header__left_side__old span {
+        font-size: .75em;
+        align-self: center;
+    }
+    .main_page__header__menu_item {
+        padding: 3px 20px;
+    }
+    .main_page__header__menu_item button span:nth-child(2), .main_page__header__menu_item:nth-child(3) span, .main_page__header__right_side__search-inp, .advantages__item-description, .advantages__item-button {
+        font-size: .75em!important;
+        font-weight: 400;
+    }
+    .main_page__header__menu_item:nth-child(3) span {
+        font-weight: 400;
+    }
+    .main_page__header__menu_item span, .main_page__header__menu_item:nth-child(3) button span:nth-child(1) {
+        font-size: 1.125em;
+    }
+    .main_page__header__right_side__search__wrapper button span {
+        font-size: 1.25em;
+    }
+    .main_page__header__left_side__about a img {
+        height: 38px;
+    }
+    .main_page__header__wrapper {
+        gap: 30px;
+    }
+    .main_page__company__slogan, .main_page__serial__mebel, .main_page__catalog, .main_page__interiers, .main_page__useful_publications {
+        padding-left: 69px;
+        padding-right: 69px;
+    }
+    .company__slogan__item {
+        padding: 30px 40px;
+    }
+    .company__services__item {
+        padding: 20px 40px;
+    }
+    .company__services__item-btn {
+        font-size: .875em;
+    }
+    .serial__mebel__content__item {
+        padding-right: 44px;
+        padding-left: 44px;
+    }
+    .catalog__card__product_preview_img {
+        height: 200px;
+    }
+    .catalog__card__product_price {
+        flex-direction: column-reverse;
+        align-items: start;
+    }
+    .catalog__card__product_price span:nth-child(2) {
+        color: #8D8D91;
+        font-weight: 400;
+    }
+    .catalog__card__product_price span:nth-child(2) br {
+        display: none;
+    }
+    .advantages__item-slogan {
+        font-size: 1.5em;
+    }
+}
+@media (max-width: 1350px) {
+    /* HEADER */
+    header * {
+        font-size: .75rem;
+    }
+    .header__left__side ul {
+        gap: 25px;
+    };
+}
+@media (max-width: 1280px) {
+    /* FOOTER */
+    .footer__content__wrapper {
+        padding: 100px 69px 50px 69px;
+    }
+    .footer__info {
+        padding: 50px 69px 46px 69px;
+    }
+    .footer__content__site_links, .footer__content__info-communication {
+        width: 347px;
+    }
+    /* HEADER */
+    .header__left__side__city__selector {
+        font-size: .875rem;
+    }
+    .header__left__side__city__selector .elna.elna-city-place {
+        color: #000;
+        font-size: .875rem;
+        line-height: 1;
+    }
+    .header__city__modal__window {
+        left: 25px;
+    }
+}
+@media (min-width: 1008px) and (max-width: 1024px) {
+    /* FOOTER */
+    .footer__content__site_links, .footer__content__info-communication {
+        width: 270px;
+    }
+    /* HEADER */
+    .become__partner-btn {
+        padding: 3px 10px;
+    }
+    .header__left__side__city {
+        gap: 0!important;
+    }
+    .header__left__side {
+        width: 55%;
+        padding-left: 20px;
+    }
+    .header__wrapper {
+        height: 40px;
+    }
+    .modal-backdrop.show, .header__city__modal.show, .header__left__side__collapsible {
+        top: 40px;
+    }
+    .header__city__modal__window {
+        left: 20px;
+    }
+    .header__city__modal__search, .modal-body {
+        font-size: .75rem;
+    }
+    .header__city__modal__search {
+        height: 41px;
+    }
+}
+@media (max-width: 768px) {
+    /* FOOTER */
+    .footer__content__wrapper {
+        padding: 100px 0 50px 0;
+    }
+    .footer__content {
+        flex-direction: column;
+        gap: 50px;
+    }
+    .footer__info {
+        padding: 50px 69px 100px 69px;
+    }
+    .footer__content__info-communication {
+        padding: 0 69px 50px 69px;
+        width: 100%;
+        flex-direction: row;
+        justify-content: space-between;
+        border-bottom: 1px solid var(--border-stroke);
+        gap: 30px;
+    }
+    .footer__content__communication, .footer__content__info {
+        width: 50%;
+    }
+    .footer__content__site_links {
+        border-left: none;
+    }
+    .footer__content__site__links__wrapper {
+        padding: 0 69px 0 69px;
+        display: flex;
+        gap: 30px;
+    }
+    .footer__content__site_links {
+        padding-left: 0;
+        width: 300px;
+    }
+}
+@media (min-width: 320px) and (max-width: 425px) {
+    /* FOOTER */
+    .footer__content__wrapper {
+        padding: 60px 26px 30px 26px;
+    }
+    .footer__content__site__links__wrapper {
+        display: none;
+    }
+    .footer__content__info-communication {
+        flex-direction: column;
+        padding: 0;
+        border-bottom: none;
+        gap: 20px;
+    }
+    .footer__content__info, .footer__content__communication, .footer__content__communication__call-inp {
+        width: 100%;
+    }
+    .footer__content__communication__call p {
+        padding-right: 10px;
+    }
+    .footer__info {
+        padding: 30px 26px 60px 26px;
+        flex-direction: column;
+        gap: 40px;
+    }
+}
